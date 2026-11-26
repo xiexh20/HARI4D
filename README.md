@@ -5,6 +5,8 @@ Official implementation for the paper HARI4D
 
 TLDR: From a monocular RGB video, HARI4D reconstructs the 4D full-body object interaction with articulated hands.
 
+![HARI4D teaser](https://virtualhumans.mpi-inf.mpg.de/hari4d/HARI4D_teaser.gif)
+
 ## Updates
 
 - **Nov 25, 2026:** HARI4D is online. See [arXiv](https://arxiv.org/abs/2611.32932).
