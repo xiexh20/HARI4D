@@ -1,4 +1,4 @@
-# HARI4D
+# HARI4D: Hand-Articulation Aware 4D Reconstruction of Human-Object Interaction
 [ArXiv](https://arxiv.org/pdf/2611.32932) | [Project page](https://virtualhumans.mpi-inf.mpg.de/hari4d/)
 
 Official implementation for the paper HARI4D
